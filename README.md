@@ -1,11 +1,9 @@
 
-<div align="center">
-  Welcome To My Github Profile 👋
-</div>
+### Welcome!&nbsp;&nbsp;I'm Kiyoung Heo 👋 
 
-### 📌 I'm Kiyoung Heo
+---
 
-### Tech Stack
+### ▶ Tech Stack
 **Language** :
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />   
@@ -19,7 +17,7 @@
 
 ---
 
-### Status
+### ▶ Status
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hky035&layout=compact)
 
 <!--
