@@ -1,9 +1,8 @@
 
-### Welcome!&nbsp;&nbsp;I'm Kiyoung Heo 👋 
+## Welcome!&nbsp;&nbsp;I'm Kiyoung Heo 👋 
 
----
 
-### ▶ Tech Stack
+## ▶ 🛠 Tech Stack 
 **Language** :
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />   
@@ -15,9 +14,11 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />   
 
----
+## ▶ 🏆 Activity 
+- 멋쟁이사자처럼 대학 12기 (2024. 03. 16. ~ )
+- 멋쟁이사자처럼 대학 12기 중앙 해커톤 본선 진출
 
-### ▶ Status
+## ▶ 📗 Status
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hky035&layout=compact)
 
 <!--
