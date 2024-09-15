@@ -15,8 +15,8 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />   
 
 ## ▶ 🏆 Activity 
-- 멋쟁이사자처럼 대학 12기 (2024. 03. 16. ~ )
-- 멋쟁이사자처럼 대학 12기 중앙 해커톤 본선 진출
+- 멋쟁이사자처럼 대학 12기 (2024. 03. 16. ~ ) 
+- 멋쟁이사자처럼 대학 12기 중앙 해커톤 본선 진출 [→](https://www.instagram.com/p/C-9IFVGTd4e/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
 ## ▶ 📗 Status
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hky035&layout=compact)
