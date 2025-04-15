@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />   
 **Deployment** : 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon Web Services&logoColor=white" alt="Amazon AWS"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonWebServices&logoColor=white" alt="Amazon AWS"/>
 <img src="https://img.shields.io/badge/github%20actions-2088FF?style=flat&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
 
