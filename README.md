@@ -22,11 +22,7 @@
 ## ▶ 🏆 Activity 
 - 멋쟁이사자처럼 대학 12기 (2024. 03. 16. ~ 2024. 12. 31.) 
 - 멋쟁이사자처럼 대학 12기 중앙 해커톤 본선 진출 [→](https://www.instagram.com/p/C-9IFVGTd4e/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
-- 멋쟁이사자처럼 대학 13기 백엔드 운영진 (2025. 01. 01 ~ )
-
-## ▶ 📗 Status
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hky035&layout=compact)
-
+- 멋쟁이사자처럼 대학 13기 백엔드 운영진 (2025. 01. 01. ~ 2025. 12. 31.)
 
 ## ▶ 📬 Contact
 <a href="mailto:hky035@gmail.com">
