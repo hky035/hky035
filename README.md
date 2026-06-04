@@ -24,6 +24,9 @@
 - 멋쟁이사자처럼 대학 12기 중앙 해커톤 본선 진출 [→](https://www.instagram.com/p/C-9IFVGTd4e/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 - 멋쟁이사자처럼 대학 13기 백엔드 운영진 (2025. 01. 01. ~ 2025. 12. 31.)
 
+## ▶ 📖 OpenSource
+-  **[Elasticsearch](https://github.com/elastic/elasticsearch/issues/150298#event-26300816755)**
+
 ## ▶ 📬 Contact
 <a href="mailto:hky035@gmail.com">
   <img src="https://img.shields.io/badge/mail-76BB21?style=flat&logo=mail.ru&logoColor=white">
