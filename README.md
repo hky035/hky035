@@ -25,7 +25,7 @@
 - 멋쟁이사자처럼 대학 13기 백엔드 운영진 (2025. 01. 01. ~ 2025. 12. 31.)
 
 ## ▶ 📖 OpenSource
--  **[Elasticsearch #150298](https://github.com/elastic/elasticsearch/issues/150298#event-26300816755)** - [DOCS] Fix outdated default stoptags example (`E`, `J`) in `nori_part_of_speech` docs
+-  **[Elasticsearch #150298](https://github.com/elastic/elasticsearch/issues/150298)** - [DOCS] Fix outdated default stoptags example (`E`, `J`) in `nori_part_of_speech` docs
  
 
 
